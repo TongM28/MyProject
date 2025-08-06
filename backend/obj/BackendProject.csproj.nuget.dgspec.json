@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ThinkPad\\Downloads\\Documents\\MyProject\\backend\\BackendProject.csproj": {}
+    "C:\\Users\\ThinkPad\\OneDrive\\GitHub\\MyProject\\backend\\BackendProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ThinkPad\\Downloads\\Documents\\MyProject\\backend\\BackendProject.csproj": {
+    "C:\\Users\\ThinkPad\\OneDrive\\GitHub\\MyProject\\backend\\BackendProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ThinkPad\\Downloads\\Documents\\MyProject\\backend\\BackendProject.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkPad\\OneDrive\\GitHub\\MyProject\\backend\\BackendProject.csproj",
         "projectName": "BackendProject",
-        "projectPath": "C:\\Users\\ThinkPad\\Downloads\\Documents\\MyProject\\backend\\BackendProject.csproj",
+        "projectPath": "C:\\Users\\ThinkPad\\OneDrive\\GitHub\\MyProject\\backend\\BackendProject.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ThinkPad\\Downloads\\Documents\\MyProject\\backend\\obj\\",
+        "outputPath": "C:\\Users\\ThinkPad\\OneDrive\\GitHub\\MyProject\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

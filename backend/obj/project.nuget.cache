@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q2y/2N0Sj7Y=",
+  "dgSpecHash": "8YjecCyj2uk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ThinkPad\\Downloads\\Documents\\MyProject\\backend\\BackendProject.csproj",
+  "projectFilePath": "C:\\Users\\ThinkPad\\OneDrive\\GitHub\\MyProject\\backend\\BackendProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ThinkPad\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\ThinkPad\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
